@@ -1,2 +1,2 @@
-# flexbox-viki
+# flexbox-vigi
 learning flexbox
